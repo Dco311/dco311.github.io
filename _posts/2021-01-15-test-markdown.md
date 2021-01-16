@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome Back Newsletter
-subtitle: AGRESSIVE TRANSPARENCY!
+subtitle: AGGRESSIVE TRANSPARENCY!
 gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
