@@ -9,7 +9,7 @@
 title: Student Council
 
 # Your name to show in the footer
-author: 003-21 Executive Board
+author: A private organization unaffiliated with the Department of Defense. OCS logo is used for the purpose of commentary under fair use.
 
 # --- List of links in the navigation bar --- #
 
@@ -71,7 +71,7 @@ round-avatar: true
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: true
+  facebook: false
   linkedin: false
   vk: false
 
@@ -80,7 +80,7 @@ share-links-active:
 url-pretty: "dco311.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 15
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
