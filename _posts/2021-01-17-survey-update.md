@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Budget Allocation Survey
-subtitle: Check "Suggestion Box"
+subtitle: Check "Suggestion Box" on drop-down
 gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
