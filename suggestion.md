@@ -4,6 +4,11 @@ title: Suggestion Box
 subtitle: Recommendations to the Executive Board
 ---
 
+Please take this [SURVEY](https://www.surveymonkey.com/r/LJRZ9TN)!
+
+
+##You may in addition anonymously submit remarks below:
+
 Members, please use the link below to add a brief comment on the word document:
 
 - Please be brief
